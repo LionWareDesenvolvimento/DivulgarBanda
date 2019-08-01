@@ -1,0 +1,44 @@
+body{
+    width:95%;
+    max-width:800px;
+    margin: auto;
+    font-family:'Lato';
+    line-height:1.5;
+    background:url(bg.jpg) center;
+    color:#DCDCDC;
+}
+
+main{
+    background:#00000054;
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+
+.logo, .band, .headline{
+    text-align: center;
+    margin: 0;
+}
+
+.concertos {
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.concertos table{
+    background:#0a082991;
+    border-radius:10px;
+    padding:10px;
+    margin: 0 auto;
+}
+
+.ingresso{
+    background: #ffffff57;
+    border-radius: 10px;
+    padding: 1px;
+    margin-left: 193px;
+    margin-right: 193px;
+    text-align: center;
+}
